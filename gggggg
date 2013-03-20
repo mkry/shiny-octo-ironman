@@ -3,3 +3,7 @@ git branch jjj
 hbgjhgjkg new
 
 this is jjj
+
+git branch mybranch # Creates a new branch called "mybranch"
+git checkout mybranch
+
